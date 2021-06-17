@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{9103E79B-FEFE-4050-B3A8-CF7E7D2336B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Dtos.cs" Line="10" Column="90" />
+      <File FileName="Repositories/IItemRepository.cs" Line="9" Column="54" />
+      <File FileName="Controllers/ItemController.cs" Line="33" Column="1" />
+      <File FileName="Startup.cs" Line="39" Column="12" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Repositories/Extensions.cs" Line="21" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Play.Catalog.Service" expanded="True">
+            <Node name="Play.Catalog.Service" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Settings" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Play.Catalog.Service PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/obj/Debug/net5.0/Play.Common.csproj.AssemblyReference.cache
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/obj/Debug/net5.0/Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/obj/Debug/net5.0/Play.Common.AssemblyInfoInputs.cache
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/obj/Debug/net5.0/Play.Common.AssemblyInfo.cs
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/obj/Debug/net5.0/Play.Common.csproj.CoreCompileInputs.cache
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/bin/Debug/net5.0/Play.Common.deps.json
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/bin/Debug/net5.0/Play.Common.dll
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/bin/Debug/net5.0/ref/Play.Common.dll
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/bin/Debug/net5.0/Play.Common.pdb
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/obj/Debug/net5.0/Play.Common.dll
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/obj/Debug/net5.0/ref/Play.Common.dll
+/Users/alex/udemy-net-microservices/PLAY.COMMON/Play.Common/src/obj/Debug/net5.0/Play.Common.pdb
